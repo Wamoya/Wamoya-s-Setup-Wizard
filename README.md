@@ -1,6 +1,8 @@
 # Woya-s-Wizard
 Interactive setup wizard that fulfills my personal needs.
 
+> [!warning] PROJECT IS NOT READY FOR USE. IT IS SITLL A WORK IN PROGRESS.
+
 ## What will you find here?
 - My personal config files for various apps.
 - A list of packages and applications that I consider indispensable.
@@ -29,3 +31,7 @@ $ sudo ./setup.sh
 ## Why would you want this?
 My main goal with this project is to collect all the tools that I use in my Linux machine in one place, so that I can easily restore my system anywhen and anywhere to a "default" value.
 Of course, you probably won't agree with all my choices here, and that's normal. You may download this software and customize it so that it fulfills your personal needs.
+
+## TODO
+- [ ] Add information about compatibility
+- [ ] Fix the callouts in README.md

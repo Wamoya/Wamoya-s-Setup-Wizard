@@ -1,0 +1,5 @@
+# This file lists the packages that will be installed by the wizard.
+# Lines starting with an '#' will be trated as comments and, therefore, will also be ignored by the wizard.
+# Empty lines will also be ignored.
+
+

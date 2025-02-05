@@ -35,7 +35,7 @@ Of course, you probably won't agree with all my choices here, and that's normal.
 
 ## TODO
 - [ ] Add information about compatibility
-- [ ] Fix the callouts in README.md
+- [x] Fix the callouts in README.md
 - [ ] Add a customization guide
-- [ ] Add the interactive elements that the current license states as required for terminal applications.
+- [/] Add the interactive elements that the current license states as required for terminal applications.
 - [ ] List dependencies

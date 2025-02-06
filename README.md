@@ -1,7 +1,7 @@
-# Woya-s-Wizard
+# Woya-s-Setup-Wizard
 Interactive setup wizard that fulfills my personal needs.
 
-> ⚠️ THIS PROJECT IS **NOT READY FOR USE**. IT IS SITLL A WORK IN PROGRESS.
+> ⚠️ THIS PROJECT IS **NOT READY FOR USE**. IT STILL IS A WORK IN PROGRESS.
 
 ## What will you find here?
 - My personal config files for various apps.
@@ -37,5 +37,5 @@ Of course, you probably won't agree with all my choices here, and that's normal.
 - [ ] Add information about compatibility
 - [x] Fix the callouts in README.md
 - [ ] Add a customization guide
-- [/] Add the interactive elements that the current license states as required for terminal applications.
+- [ ] Add the interactive elements that the current license states as required for terminal applications.
 - [ ] List dependencies

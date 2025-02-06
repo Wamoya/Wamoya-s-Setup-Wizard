@@ -8,9 +8,9 @@ YELLOW='\e[33m'
 NC='\e[0m' # No Color
 
 # Important paths
-ASCII_ART="ascii_art.txt"
-GREET="greet.txt"
-LICENSE_NOTICE="license_notice.txt"
+ASCII_ART="assets/ascii_art.txt"
+GREET="assets/greet.txt"
+LICENSE_NOTICE="assets/license_notice.txt"
 #CONFIG_FILES=""
 
 

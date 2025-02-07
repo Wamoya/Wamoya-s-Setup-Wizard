@@ -28,6 +28,7 @@ By running this command, you grant Super User privileges to the setup wizard. **
 ```bash
 $ sudo ./setup.sh
 ```
+4. Follow the instructions through the command prompt.
 
 ## Why would you want this?
 My main goal with this project is to collect all the tools that I use in my Linux machine in one place, so that I can easily restore my system anywhen and anywhere to a "default" value.

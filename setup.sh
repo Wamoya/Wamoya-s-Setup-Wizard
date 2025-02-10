@@ -70,7 +70,7 @@ function start() {
     # The rest of this function will be a bunch of IF blocks that:
     # - Check if the user wants to set an specific configuration by looking at a variable
     # - Calls an specific function if the condition is TRUE
-    #   - This function will contain the sequence that will apply the desired configuration
+    #     - This function will contain the sequence that will apply the desired configuration
     if [ "$i_packages" = "y" ]; then
         install_packages
     fi
@@ -79,8 +79,8 @@ function start() {
 # Install packages listed in `packages.txt`
 function install_packages() {
     echo -e "${YELLOW}Installing packages...${NC}"
-    while IFS= read -r package || [[ -n "$package" ]]; do
-        if [[ -z "$package" || "$package" =~ ^# ]]; then # Ignore if (line start with '#' OR line is empty)
+    while IFS= read -r package || [[ -n "$package" ]]; do # Process each line, with no error if last line doesn't end with a new line
+        if [[ -z "$package" || "$package" =~ ^# ]]; then # Ignore if (line is empty OR line starts with '#')
             continue
         fi
 

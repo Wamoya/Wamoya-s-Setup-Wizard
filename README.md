@@ -9,9 +9,10 @@ Interactive setup wizard that fulfills my personal needs.
 - An executable bash-written setup wizard that manages everything in an interactive way.
 
 > 📁 **Folder structure**
-> - `setup.sh` -> The main interactive setup wizard.
+> - `assets/` -> Contains auxiliary files used by the wizard.
 > - `configs/` -> Contains personal configuration files.
 > - `packages.txt` -> A list of packages to install.
+> - `setup.sh` -> The main interactive setup wizard.
 
 ## Installation
 1. Clone this repository in your machine:
@@ -24,6 +25,7 @@ $ cd Woya-s-Setup-Wizard
 $ chmod +x setup.sh
 ```
 3. Run the wizard:
+
 By running this command, you grant Super User privileges to the setup wizard. **Don't execute this command if you don't know what you are doing.**
 ```bash
 $ sudo ./setup.sh

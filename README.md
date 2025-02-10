@@ -24,9 +24,7 @@ $ cd Woya-s-Setup-Wizard
 ```bash
 $ chmod +x setup.sh
 ```
-3. Run the wizard:
-
-By running this command, you grant Super User privileges to the setup wizard. **Don't execute this command if you don't know what you are doing.**
+3. Run the wizard: By running this command, you grant Super User privileges to the setup wizard. **Don't execute this command if you don't know what you are doing.**
 ```bash
 $ sudo ./setup.sh
 ```

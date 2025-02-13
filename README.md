@@ -1,7 +1,8 @@
 # Woya-s-Setup-Wizard
 Interactive setup wizard that fulfills my personal needs.
 
-> ⚠️ THIS PROJECT IS **NOT READY FOR USE**. IT STILL IS A WORK IN PROGRESS.
+> [!CAUTION]
+> THIS PROJECT IS **NOT READY FOR USE**. IT STILL IS A WORK IN PROGRESS.
 
 ## What will you find here?
 - My personal config files for various apps.
@@ -24,7 +25,9 @@ $ cd Woya-s-Setup-Wizard
 ```bash
 $ chmod +x setup.sh
 ```
-3. Run the wizard: By running this command, you grant Super User privileges to the setup wizard. **Don't execute this command if you don't know what you are doing.**
+3. Run the wizard: By running this command, you grant Super User privileges to the setup wizard.
+> [!WARNING]
+> **Don't execute this command if you don't know what you are doing.**
 ```bash
 $ sudo ./setup.sh
 ```

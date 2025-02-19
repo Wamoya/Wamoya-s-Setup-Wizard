@@ -1,4 +1,6 @@
 
 Greetings, muggle.
-Let's start.
+If you are looking for a way of automating several configuration actions in a single place,
+this wizard is for you.
+Let's do some magic!
 

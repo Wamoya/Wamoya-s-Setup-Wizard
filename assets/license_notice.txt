@@ -1,6 +1,6 @@
 
 	Wamoya's Setup Wizard  Copyright (C) 2025  Wamoya
-	This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+	This program comes with ABSOLUTELY NO WARRANTY; for details type `1'.
 	This is free software, and you are welcome to redistribute it
-	under certain conditions; type `show c' for details.
+	under certain conditions; type `2' for details.
 

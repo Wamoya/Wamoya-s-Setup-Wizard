@@ -3,3 +3,11 @@
 # Empty lines will also be ignored.
 
 
+tree
+bat
+gitk
+snap
+# snap is used to install nvim: sudo snap install nvim --classic
+gh
+fzf
+build-essential

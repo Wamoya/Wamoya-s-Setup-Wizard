@@ -14,6 +14,7 @@ Interactive setup wizard that fulfills my personal needs.
 > - `configs/` -> Contains personal configuration files.
 > - `packages.txt` -> A list of packages to install.
 > - `setup.sh` -> The main interactive setup wizard.
+> - `aux.sh` -> Auxiliary script for running extra custom routines.
 
 ## Installation
 1. Clone this repository in your machine:
@@ -23,7 +24,7 @@ $ cd Woya-s-Setup-Wizard
 ```
 2. Give execution permissions to the setup script:
 ```bash
-$ chmod +x setup.sh
+$ chmod +x setup.sh aux.sh
 ```
 3. Run the wizard: By running this command, you grant Super User privileges to the setup wizard.
 > [!WARNING]

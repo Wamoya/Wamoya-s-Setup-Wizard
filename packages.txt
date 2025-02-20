@@ -11,3 +11,7 @@ snap
 gh
 fzf
 build-essential
+
+# Others...
+iverilog
+gtkwave

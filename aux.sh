@@ -10,9 +10,11 @@ mkdir ~/downloads ~/repos
 
 # Load config files
 cp ./configs/.bash_aliases ~/.bash_aliases
+source ~/.bash_aliases
 
 # Clone repos
 git clone https://github.com/Wamoya/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/Wamoya/bash_scripts.git ~/repos/bash_scripts
 
 
 exit 0

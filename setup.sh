@@ -132,7 +132,7 @@ function install_packages() {
 
 # Run auxiliary script `aux.sh` -> Here, the user can write any routine that wants to run with the wizard
 function run_script() {
-    bash aux.sh
+    ./aux.sh
 }
 
 

@@ -1,9 +1,6 @@
 # Woya-s-Setup-Wizard
 Interactive setup wizard that fulfills my personal needs.
 
-> [!CAUTION]
-> THIS PROJECT IS **NOT READY FOR USE**. IT STILL IS A WORK IN PROGRESS.
-
 ## What will you find here?
 - My personal config files for various apps.
 - A list of packages and applications that I consider indispensable.
@@ -27,12 +24,12 @@ $ cd Woya-s-Setup-Wizard
 $ chmod +x setup.sh aux.sh
 ```
 3. Run the wizard: By running this command, you grant Super User privileges to the setup wizard.
-> [!WARNING]
-> **Don't execute this command if you don't know what you are doing.**
 ```bash
-$ sudo ./setup.sh
+$ ./setup.sh
 ```
 4. Follow the instructions through the command prompt.
+> [!WARNING]
+> You will probably be asked for your user password at some point. **Do not enter it if you don't know what you are doing.**
 
 ## Why would you want this?
 My main goal with this project is to collect all the tools that I use in my Linux machine in one place, so that I can easily restore my system anywhen and anywhere to a "default" value.
